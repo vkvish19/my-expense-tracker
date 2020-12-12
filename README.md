@@ -1,1 +1,3 @@
-# Android App for tracking expenses
+# Expense Tracker
+
+Android App for tracking expenses
